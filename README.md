@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **pavel.makouski@gmail.com**
 
-- ⚡ Favourite dad joke **I do not trust statisticians -- they are always plotting something**
+- ⚡ Favourite dad joke: **I do not trust statisticians -- they are always plotting something**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
