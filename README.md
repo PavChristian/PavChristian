@@ -7,8 +7,6 @@
 
 - 📫 How to reach me **pavel.makouski@gmail.com**
 
-- ⚡ Favourite dad joke: **I do not trust statisticians -- they are always plotting something**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/pavel-christian-makouski-27875320b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pavel-christian-makouski-27875320b/" height="30" width="40" /></a>
