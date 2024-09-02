@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/85f52993-e289-41df-9e92-7018972a7c69)<h1 align="center">Hi 👋, I'm Pavel-Christian</h1>
+<h1 align="center">Hi 👋, I'm Pavel-Christian</h1>
 <h3 align="center">A passionate Data Scientist working on NLP/ML projects</h3>
 
 - 🌱 I’m currently learning **Julia**
